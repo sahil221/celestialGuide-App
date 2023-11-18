@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the NASA APOD Viewer App! This mobile application is your gateway to exploring the wonders of the universe through NASA's Astronomy Picture of the Day (APOD). By leveraging NASA's open APIs, specifically the APOD resource, this app delivers a rich and immersive experience for users interested in celestial imagery.
+Welcome to the celestialGuide App! This mobile application is your gateway to exploring the wonders of the universe through NASA's Astronomy Picture of the Day (APOD). By leveraging NASA's open APIs, specifically the APOD resource, this app delivers a rich and immersive experience for users interested in celestial imagery.
 
 ## Features
 
