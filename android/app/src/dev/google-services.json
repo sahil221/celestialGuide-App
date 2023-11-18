@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152259219814",
+    "project_id": "celestialguide-dev",
+    "storage_bucket": "celestialguide-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152259219814:android:727b6ab0dc6be5b00678a7",
+        "android_client_info": {
+          "package_name": "com.astronomy.astronomy.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152259219814-7ti6aqk9u9eiiiv3gffq1bt6aj7d88s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcTKuWmEgQANDK_lJqrt_xdepPUYcQ6M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152259219814-7ti6aqk9u9eiiiv3gffq1bt6aj7d88s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

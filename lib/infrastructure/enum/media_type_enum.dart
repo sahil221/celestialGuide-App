@@ -1,0 +1,1 @@
+enum MediaTypeEnum { IMAGE, VIDEO }

@@ -51,3 +51,8 @@ Welcome to the NASA APOD Viewer App! This mobile application is your gateway to 
     ```
 
     This command will build and run the Flutter app on your connected device.
+
+4. **Demo:**
+
+    ![To see the project in action click on the link]
+    (https://firebasestorage.googleapis.com/v0/b/teamcoordinet-dev.appspot.com/o/final-op.mp4?alt=media&token=da8f17f0-4b9f-4f0e-b39d-647009536204)

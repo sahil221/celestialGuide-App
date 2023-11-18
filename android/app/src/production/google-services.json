@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "514273182417",
+    "project_id": "celestialguide-e14ae",
+    "storage_bucket": "celestialguide-e14ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514273182417:android:0853b4c056cc945f7bfbf0",
+        "android_client_info": {
+          "package_name": "com.astronomy.astronomy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514273182417-kjjk41bklv8u3cp7r01sqedd763eu4kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astronomy.astronomy",
+            "certificate_hash": "9f070d5700cf5462c073ad69a2d727a7d684abed"
+          }
+        },
+        {
+          "client_id": "514273182417-56i3hvrkkdl8sujeib4sc8ndf0c8qmfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOOb25zSZM6P3GDv-e1h3Us3lyYovY3sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514273182417-56i3hvrkkdl8sujeib4sc8ndf0c8qmfu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514273182417-8vkkn1d0sia84ciase63t8vrf3fmp8i3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.astronomy.astronomy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
