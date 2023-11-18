@@ -34,7 +34,7 @@ Welcome to the celestialGuide App! This mobile application is your gateway to ex
 
     ```bash
     git clone https://github.com/sahil221/celestialGuide-App.git
-    cd flutter-demo
+    cd celestialGuide-App
     ```
 
 2. **Get Dependencies:**
